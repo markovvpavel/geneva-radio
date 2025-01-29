@@ -9,4 +9,4 @@ A Next.js app streaming music from artists like Frank Ocean, Frank Sinatra, Edit
 - **Regularly updated songs database**: Fresh content with new tracks.
 
 ## Screenshot
-![App Screenshot](https://github.com/markovvpavel/geneva-radio/tree/main/public/images/screenshot.png)
+![App Screenshot](https://raw.githubusercontent.com/markovvpavel/geneva-radio/refs/heads/main/public/images/screenshot.png)
